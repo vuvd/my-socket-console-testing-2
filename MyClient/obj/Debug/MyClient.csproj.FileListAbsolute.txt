@@ -1,0 +1,15 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\MyClient.exe
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\ShareDLL.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\ShareDLL.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MainWindow.g.cs
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\App.g.cs
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient_MarkupCompile.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient_MarkupCompile.lref
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MainWindow.baml
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.g.resources
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.Properties.Resources.resources
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.csproj.GenerateResource.Cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.exe
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\MyClient.pdb

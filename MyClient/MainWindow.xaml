@@ -1,0 +1,25 @@
+﻿<Window x:Class="MyClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyClient"
+        mc:Ignorable="d"
+        Title="My Client" Height="Auto" Width="500"
+        SizeToContent="Height">
+    <Grid Margin="5">
+        <StackPanel Orientation="Vertical">
+            <Button x:Name="btnConnect" Content="Connect" FontWeight="Bold" Click="btnConnect_Click"/>
+            <TextBlock Margin="0,5,0,0" Text="Type Info for Server"/>
+            <TextBlock Margin="0,5,0,0" Text="Machine ID:"/>
+            <TextBox Margin="0,5,0,0" x:Name="txtMachineId"/>
+            <TextBlock Margin="0,5,0,0" Text="Machine Name:"/>
+            <TextBox Margin="0,5,0,0" x:Name="txtMachineName"/>
+            <TextBlock Margin="0,5,0,0" Text="Date of Buy:"/>
+            <DatePicker Margin="0,5,0,0" x:Name="dpkDateOfBuy" SelectedDate="03/29/2017"/>
+            <TextBlock Text="Status:"/>
+            <CheckBox Margin="0,5,0,0" x:Name="chbStatus" Content="Active"/>
+            <Button Margin="0,5,0,0" x:Name="btnSend" Content="Send Message to Server" FontWeight="Bold" Click="btnSend_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

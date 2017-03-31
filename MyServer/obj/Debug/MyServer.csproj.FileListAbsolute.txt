@@ -1,0 +1,12 @@
+c:\users\vuvoduy\documents\visual studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\MyClient.exe
+c:\users\vuvoduy\documents\visual studio 2017\Projects\My Socket Console Testing 2\MyClient\bin\Debug\MyClient.pdb
+c:\users\vuvoduy\documents\visual studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+c:\users\vuvoduy\documents\visual studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.exe
+c:\users\vuvoduy\documents\visual studio 2017\Projects\My Socket Console Testing 2\MyClient\obj\Debug\MyClient.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\bin\Debug\MyServer.exe
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\bin\Debug\MyServer.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\bin\Debug\ShareDLL.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\bin\Debug\ShareDLL.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\obj\Debug\MyServer.exe
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\MyServer\obj\Debug\MyServer.pdb

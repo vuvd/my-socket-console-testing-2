@@ -1,0 +1,4 @@
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\ShareDLL\bin\Debug\ShareDLL.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\ShareDLL\bin\Debug\ShareDLL.pdb
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\ShareDLL\obj\Debug\ShareDLL.dll
+C:\Users\VuVoDuy\Documents\Visual Studio 2017\Projects\My Socket Console Testing 2\ShareDLL\obj\Debug\ShareDLL.pdb
